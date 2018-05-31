@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"NGuyễn vĂn A",
+        "tel":"0868683488",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Trịnh Thị B",
+        "tel":"0868683409",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Nguyễn Văn Tèo",
+        "tel":"0868683488",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"NGuyễn vĂn E",
+        "tel":"0868683488",
+        "permission":4
+    },
+    {
+        "id":5,
+        "name":"NGuyễn vĂn D",
+        "tel":"0868683488",
+        "permission":5
+    }
+]
